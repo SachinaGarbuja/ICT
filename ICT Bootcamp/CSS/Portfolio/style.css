@@ -1,0 +1,12 @@
+.center{
+text-align: center;
+color: red;
+}
+h3{
+    color:navy;
+}
+table,th,td{
+    text-align: center;
+    border: 2px solid pink;
+    background: powderblue;
+}
